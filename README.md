@@ -3,7 +3,7 @@
 - Browse my repositories to know more!
 
 ## Contact Me:
-- Public E-Mail: jasdewstarfield@gmail.com
-- X: Jasdew Starfield (@MysteriousEnder)
-- QQ: 952988294
-- 中文/English √
+- **Public E-Mail**: jasdewstarfield@gmail.com
+- **X**: Jasdew Starfield (@MysteriousEnder)
+- **QQ**: 952988294
+- 中文/English **√**
