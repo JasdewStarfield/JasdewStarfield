@@ -1,5 +1,5 @@
 ## Who am I?
-- Bioscience Learner / Amateur Minecraft Modpack Maker / Python & C Programmer / ......
+- Bioscience and Biotechnology Learner / Amateur Minecraft Modpack Maker / Python & C Programmer / ......
 - Browse my repositories to know more!
 
 ## Contact Me:
